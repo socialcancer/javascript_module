@@ -180,3 +180,9 @@ var startGame = function () {
 };
 
 startGame();
+
+//Start enemies at a random health between 40 and 60
+
+//start enemies with a random attack between 10 and 14
+
+//Make attack damage random, using the robot's attack value as an upper limit
